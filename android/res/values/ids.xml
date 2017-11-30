@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">1012038295521</string>
+    <!-- achievement 5 Points! -->
+    <string name="achievement_5_points" translatable="false">CgkI4b-7kbodEAIQAQ</string>
+    <!-- achievement 10 Points! -->
+    <string name="achievement_10_points" translatable="false">CgkI4b-7kbodEAIQAg</string>
+    <!-- achievement 20 Points! -->
+    <string name="achievement_20_points" translatable="false">CgkI4b-7kbodEAIQAw</string>
+    <!-- achievement 25 Points! -->
+    <string name="achievement_25_points" translatable="false">CgkI4b-7kbodEAIQDg</string>
+    <!-- achievement 30 Points! -->
+    <string name="achievement_30_points" translatable="false">CgkI4b-7kbodEAIQBA</string>
+    <!-- achievement 40 Points! -->
+    <string name="achievement_40_points" translatable="false">CgkI4b-7kbodEAIQBw</string>
+    <!-- achievement 50 Points! -->
+    <string name="achievement_50_points" translatable="false">CgkI4b-7kbodEAIQBQ</string>
+    <!-- achievement 60 Points! -->
+    <string name="achievement_60_points" translatable="false">CgkI4b-7kbodEAIQBg</string>
+    <!-- achievement 70 Points! -->
+    <string name="achievement_70_points" translatable="false">CgkI4b-7kbodEAIQCw</string>
+    <!-- achievement 80 Points! -->
+    <string name="achievement_80_points" translatable="false">CgkI4b-7kbodEAIQDA</string>
+    <!-- achievement 90 Points! -->
+    <string name="achievement_90_points" translatable="false">CgkI4b-7kbodEAIQDQ</string>
+    <!-- achievement 100 Points! -->
+    <string name="achievement_100_points" translatable="false">CgkI4b-7kbodEAIQCA</string>
+    <!-- achievement 200 Points! -->
+    <string name="achievement_200_points" translatable="false">CgkI4b-7kbodEAIQCQ</string>
+    <!-- achievement 500 Points! -->
+    <string name="achievement_500_points" translatable="false">CgkI4b-7kbodEAIQCg</string>
+    <!-- leaderboard Ranking - Scores -->
+    <string name="leaderboard_ranking__scores" translatable="false">CgkI4b-7kbodEAIQAA</string>
+</resources>
